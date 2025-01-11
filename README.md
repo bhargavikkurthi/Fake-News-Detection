@@ -18,8 +18,7 @@ Develop a Deep learning program to identify when an article might be fake news.
 
 **Dataset Link:** https://www.kaggle.com/c/fake-news/data
 
-+Pre-trained word vectors are available at: 
-**GloVe:** https://nlp.stanford.edu/projects/glove/
++ Pre-trained word vectors are available at: https://nlp.stanford.edu/projects/glove/
 
 # Libraries
 
