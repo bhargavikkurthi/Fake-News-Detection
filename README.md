@@ -3,8 +3,6 @@
 
 # Dataset Information
 
-Develop a Deep learning program to identify when an article might be fake news.
-
 ### Attributes
 
 - **id**: unique id for a news article
